@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioOptions Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Projects OPTPES="96,96,2,0,">
+        <Project ProjectGUID="{8B55A35F-9961-44f9-A8D5-AF5B120E39D9}" Name="firstprogram" ACTCFG="DebugRel">
+            <TARGOPT Name="DebugRel" OPTDF="0">
+                <OPTFFF VAL="&lt;.\makefile&gt; {2,3,-1,-1,50,50,1053,313,53,1630}" />
+                <OPTFFF VAL="&lt;.\firstprogram.c&gt; {0,1,-1,-1,25,25,1028,309,0,300}" />
+            </TARGOPT>
+        </Project>
+    </Projects>
+</TKStudioOptions>

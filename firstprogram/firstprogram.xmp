@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioProject Name="firstprogram" ProjectGUID="{8B55A35F-9961-44f9-A8D5-AF5B120E39D9}" BuildTool="20" ToolVer="1.0" Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Configurations>
+        <Configuration Name="DebugRel" OPTDBG="1,0,0,0,1,0,(fuck.fuck)" DEVICE="S3C2410A" VENDOR="Samsung" FAMINY="3" SIMCLK="12.000000">
+            <Cygwin SourcePath="E:\Qtexample\tkstudioExample\firstprogram" BuildCmd="make" CleanCmd="make clean" />
+            <DeviceProperties Item0='BOOK0=DATASHTS\SAMSUNG\S3C2410_UM.PDF (&quot;User&apos;s Manual&quot;)' Item1="CPU=IRAM(0x40000000-0x40001FFF) CLOCK(12000000) CPUTYPE(ARM920T)" Item2='MON=SARM.DLL(&quot;&quot;) TARMSS9.DLL(&quot;-pS3C2410A&quot;)' Item3='REGFILE=S3C2410A.H(&quot;Samsung&quot;)' Item4='SFILE=&quot;STARTUP\Samsung\S3C2410A.s&quot; (&quot;Samsung S3C2410A Startup Code&quot;)' Item5='SIM=SARM.DLL(&quot;&quot;)  DARMSS9.DLL(&quot;-pS3C2410A&quot;)' />
+            <DeviceDescription Description="ARM920T based high-performance 32-bit RISC Microcontroller with Thumb&#x0D;&#x0A;extensions, 16KB Instruction Cache, 16KB Data Cache, MMU, 4KB RAM,&#x0D;&#x0A;NAND Flash Boot Loader, On-chip PLL with Clock and Power Management,&#x0D;&#x0A;Interrupt Controller, External Memory Controller, LCD Controller (STN &amp; TFT),&#x0D;&#x0A;4ch DMA, 3-ch UART, Multi Master IIC-BUS Controller, IIS-BUS Controller, &#x0D;&#x0A;SD Host Interface V1.0 &amp; Multi-Media Card Interface V2.11, 2-ch SPI,&#x0D;&#x0A;2-port USB Host, USB Device, 4-ch PWM Timers, 1-ch Timer,&#x0D;&#x0A;Watchdog Timer, 8-ch 10-bit A/D Converter and Touch Screen Interface,&#x0D;&#x0A;RTC with Calendar, General Perpose I/O pins." />
+        </Configuration>
+    </Configurations>
+    <Files>
+        <Filter Name="Source Files">
+            <File RelativePath="firstprogram.c" />
+            <File RelativePath="Makefile" />
+        </Filter>
+    </Files>
+</TKStudioProject>
